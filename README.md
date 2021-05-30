@@ -1,4 +1,4 @@
-<img align="right" src="https://bluemoondev.org/img/theJeterLP-transparent.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=350px height=350px/>
+<img align="right" src="https://www.thejeterlp.dev/img/thejeterlp-transparent.png" alt="" width=350px height=350px/>
 
 ### Hi, I'm Joey 👋
 
