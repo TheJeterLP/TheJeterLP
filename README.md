@@ -6,6 +6,6 @@ I’m a java developer. I'm the creator of [ChatEx](https://github.com/thejeterl
 - 📱  I’m currently working on the website of BlueMoonDevelopment.
 - 🤓 I’m currently learning Android Development.
 - 💬  Ask me about Java, PHP or Microcontroller development.
-- 📫  How to reach me: jeter@bluemoondev.org or Discord Jeter#0239
+- 📫  How to reach me: joey.peter1998@gmail.com or Discord Jeter#0239
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
