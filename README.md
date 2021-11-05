@@ -1,5 +1,3 @@
-<img align="right" src="https://www.thejeterlp.dev/img/thejeterlp-transparent.png" alt="" width=350px height=350px/>
-
 ### Hi, I'm Joey 👋
 
 I’m a java developer. I'm the creator of [ChatEx](https://github.com/thejeterlp/chatex), a bukkit plugin that lets you manage the whole server chat.
