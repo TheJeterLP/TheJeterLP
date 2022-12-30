@@ -7,7 +7,7 @@
 </div>
 
 I’m a java developer. I'm the creator of [ChatEx](https://github.com/thejeterlp/chatex), a bukkit plugin that lets you manage the whole server chat.
-- 🤓 I’m currently learning Kotlin, Rust and NodeJS
+- 🤓 I’m currently learning NodeJS
 - 💬  Ask me about Java, PHP or Microcontroller development.
 - 📫  How to reach me: Discord Jeter#0239
 
