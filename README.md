@@ -6,9 +6,9 @@
   
 </div>
 
-I’m a java developer. I'm the creator of [ChatEx](https://github.com/thejeterlp/chatex), a bukkit plugin that lets you manage the whole server chat.
-- 🤓 I’m currently learning NodeJS and Rust
-- 💬  Ask me about Java, PHP or Microcontroller development.
+I’m a Web and Java developer. I'm the creator of [ChatEx](https://github.com/thejeterlp/chatex), a bukkit plugin that lets you manage the whole server chat.
+- 🤓  I’m currently learning PWA development
+- 💬  Ask me about Java, JavaScript or TypeScript development.
 - 📫  How to reach me: Discord Jeter#0239
 
 <img src="https://github.com/TheJeterLP/TheJeterLP/raw/master/github-metrics.svg" alt="Metrics" width="100%" height="100%">
