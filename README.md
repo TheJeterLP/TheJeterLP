@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.png" alt="JP Solutions Logo" width="130" height="130" />
+  <img src="https://www.jpsolutions.dev/branding/logo.webp" alt="JP Solutions Logo" width="130" height="130" />
 
   <h1>Joey Peter - IT-Solutions</h1>
 
