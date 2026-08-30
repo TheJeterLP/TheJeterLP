@@ -7,7 +7,7 @@
   Personal. Uncomplicated. At fair prices.</p>
 
   <p>
-    <a href="https://www.peter-webdesign.de">
+    <a href="https://www.peter-webdesign.de/en">
       <img src="https://img.shields.io/badge/Website-peter--webdesign.de-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
     </a>
     <a href="mailto:contact@jpsolutions.dev">
@@ -68,7 +68,7 @@ actually writes your code, and clean solutions built around your budget and your
 
 Have a project in mind, or just want to see if it's a fit?
 
-- 🌐 Website: **[www.jpsolutions.dev](https://www.jpsolutions.dev)**
+- 🌐 Website: **[www.peter-webdesign.de/en](https://www.peter-webdesign.de/en)**
 - ✉️ Email: **[contact@jpsolutions.dev](mailto:contact@jpsolutions.dev)**
 
 <div align="center">
