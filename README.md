@@ -7,8 +7,8 @@
   Personal. Uncomplicated. At fair prices.</p>
 
   <p>
-    <a href="https://www.jpsolutions.dev">
-      <img src="https://img.shields.io/badge/Website-jpsolutions.dev-1857D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <a href="https://www.peter-webdesign.de">
+      <img src="https://img.shields.io/badge/Website-peter--webdesign.de-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
     </a>
     <a href="mailto:contact@jpsolutions.dev">
       <img src="https://img.shields.io/badge/Contact-Email-00CFEE?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
@@ -55,6 +55,7 @@ actually writes your code, and clean solutions built around your budget and your
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ## ✅ Why Work With Me
 
