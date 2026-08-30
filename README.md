@@ -10,7 +10,7 @@
     <a href="https://www.peter-webdesign.de/en">
       <img src="https://img.shields.io/badge/Website-peter--webdesign.de-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
     </a>
-    <a href="mailto:contact@jpsolutions.dev">
+    <a href="mailto:info@peter-webdesign.de">
       <img src="https://img.shields.io/badge/Contact-Email-00CFEE?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
     </a>
     <img src="https://img.shields.io/badge/Made%20in-Germany-000000?style=for-the-badge" alt="Made in Germany" />
@@ -69,7 +69,7 @@ actually writes your code, and clean solutions built around your budget and your
 Have a project in mind, or just want to see if it's a fit?
 
 - 🌐 Website: **[www.peter-webdesign.de/en](https://www.peter-webdesign.de/en)**
-- ✉️ Email: **[contact@jpsolutions.dev](mailto:contact@jpsolutions.dev)**
+- ✉️ Email: **[info@peter-webdesign.de](mailto:info@peter-webdesign.de)**
 
 <div align="center">
   <sub>© JP Solutions — Software &amp; Web Development · Germany</sub>
